@@ -1,21 +1,21 @@
 Exercícios em Linguagem C - 1° Semestre graduação TADS - IFSP - 2026
-\nproj01 - scanf e printf
-\nproj02 - notação científica
-\nproj03 - scanf e printf
-\nproj04 - variável tipo char
-\nproj05 - scanf e printf
-\nproj06 - scanf e printf
-\nproj07 - scanf e printf
-\nproj08 - sistema randômico (sorteio)
-\nproj09 - potência
-\nproj10 - potência e raiz
-\nproj11 - if e else
-\nproj12 - switch case
-\nproj13 - switch case
-\nproj14 - switch case
-\nproj15 - for
-\nproj16 - for
-\nproj17 - for
-\nproj18 - for
-\nproj19 -
-\nproj20 -
+proj01 - scanf e printf
+proj02 - notação científica
+proj03 - scanf e printf
+proj04 - variável tipo char
+proj05 - scanf e printf
+proj06 - scanf e printf
+proj07 - scanf e printf
+proj08 - sistema randômico (sorteio)
+proj09 - potência
+proj10 - potência e raiz
+proj11 - if e else
+proj12 - switch case
+proj13 - switch case
+proj14 - switch case
+proj15 - for
+proj16 - for
+proj17 - for
+proj18 - for
+proj19 -
+proj20 -
