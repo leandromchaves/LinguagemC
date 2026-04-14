@@ -17,6 +17,6 @@ proj15 - for
 proj16 - for
 proj17 - for
 proj18 - for
-proj19 -
+proj19 - setlocale
 proj20 -
 PROJ21
