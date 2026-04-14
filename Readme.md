@@ -18,5 +18,5 @@ proj16 - for
 proj17 - for
 proj18 - for
 proj19 - setlocale
-proj20 -
-PROJ21
+proj20 - while
+PROJ21 - while
