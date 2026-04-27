@@ -26,4 +26,7 @@ int main()
 
    printf("\nO número natural digitado é: ");
    printf("%d", numero);
+
+   /*Obs: Esse programa ainda não trata o caso do usuário entrar com um texto que não 
+   represente um valor numérico.*/
 }
