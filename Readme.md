@@ -19,4 +19,5 @@ proj17 - for
 proj18 - for
 proj19 - setlocale
 proj20 - while
-PROJ21 - while
+proj21 - while
+proj22 - limpa tela / validação dos dados de entrada
