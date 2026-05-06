@@ -1,6 +1,7 @@
 # Exercícios em Linguagem C - 1° Semestre graduação TADS - IFSP - 2026
 
 **proj01** - scanf e printf
+
 **proj02** - notação científica
 **proj03** - scanf e printf
 **proj04** - variável tipo char
