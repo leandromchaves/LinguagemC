@@ -45,3 +45,5 @@ proj21 - *while*
 proj22 - *limpa tela / validação dos dados de entrada*
 
 proj23 - *limpa buffer do teclado*
+
+proj24 - 
