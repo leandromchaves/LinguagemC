@@ -46,4 +46,6 @@ proj22 - *limpa tela / validação dos dados de entrada*
 
 proj23 - *limpa buffer do teclado*
 
-proj24 - *Primeira execução*
+proj24 - *primeira execução*
+
+proj25 - *array*
