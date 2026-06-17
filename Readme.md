@@ -48,4 +48,4 @@ proj23 - *limpa buffer do teclado*
 
 proj24 - *primeira execução*
 
-proj25 - *array*
+proj25. - *array*
